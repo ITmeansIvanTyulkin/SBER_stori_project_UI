@@ -16,6 +16,7 @@
         <module>templates</module>
         <module>support-utils</module>
         <module>employee</module>
+        <module>subdivision</module>
     </modules>
 
     <properties>
